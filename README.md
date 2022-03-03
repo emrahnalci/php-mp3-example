@@ -1,8 +1,8 @@
 PHP MP3
 =======
-A PHP manipulation library.
-Emrah NALCI
-Usage
+A PHP manipulation library. \n
+Emrah NALCI \n
+Usage \n
 -----
 ```PHP
 //Merge two files
